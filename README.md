@@ -14,7 +14,7 @@ This project is a simple Tic-Tac-Toe game built using Java Swing. The applicatio
 - Record wins, losses, draws, and score
 - Display personal statistics
 - Display Top 5 scorers using JTable
-- 
+
 ## Database
 Database used: PostgreSQL
 
@@ -39,7 +39,8 @@ StatisticsFrame: GUI to display personal statitistics.
 TopScorersFrame: GUI to display top 5 players in the database.
 
 ## Screenshots
-
+FP/Screenshots
+https://github.com/FelixFelicis280/Gameproject_pemdas/tree/b80572f826606ba9ab7bcde9af1481d486513f7c/FP/Screenshots
 
 ## Video Link
 YouTube: https://youtu.be/Xn2RpJtNhVI
